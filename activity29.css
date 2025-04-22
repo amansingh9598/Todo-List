@@ -1,0 +1,30 @@
+body{
+   background-color: rgba(164, 237, 237, 0.893);
+   font-size:20px ;
+}
+
+li{
+   color:rgb(7, 7, 7);
+}
+
+h1{
+   font-weight: bold;
+   font-size: 50px;
+   
+}
+
+.input{
+   margin-top: 2rem;
+   border-radius: 2rem;
+   border-color: none ;
+   font-size: 20px;
+}
+
+.btn,.delete{
+   border-radius: 2rem;
+   margin-left: 1rem;
+   font-size: 20px;
+   background-color: rgb(200, 86, 86);
+   color: white;
+}
+
